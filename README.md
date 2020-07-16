@@ -50,6 +50,3 @@ This directory contains the images for game icon, object images and README File.
 -  <b>Reference:</b> https://www.youtube.com/watch?v=FfWpgLFMI7w by [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ). 
 
 [![Developers Tag]( https://img.shields.io/badge/Developer-shashank3199-red.svg )]( https://github.com/shashank3199 )
-=======
-# Space-Invaders
-My version of a space invaders game that I made using pygame. The aim of making this game was to explore the pygame module.
